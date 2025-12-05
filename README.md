@@ -2,7 +2,7 @@
 
 **Voyage** is an AI-powered travel itinerary generator designed to transform the often fragmented and overwhelming process of trip planning into a seamless, instant experience.
 
-![Voyage Demo](/images/p4.png)
+![Voyage Demo](/public/images/p4.png)
 
 ## 🚀 The Problem
 Planning a trip typically requires juggling multiple tabs for research, mapping, and scheduling, leading to decision fatigue and inefficient itineraries. Existing tools are often too generic or require manual input for every single detail, making it difficult to create a personalized travel plan quickly.
