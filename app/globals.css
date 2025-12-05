@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --font-sans: "Inter", sans-serif;
+}
+
+/* Force light mode background */
+body {
+    @apply bg-white text-gray-900;
+}
